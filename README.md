@@ -1,4 +1,4 @@
-# 🐄 Cow Udder Aim Trainer 🐄
+# 🐄 CowShooter 🐄
 
 A fun browser-based aim trainer game! You control a cow udder and shoot enemy butchers by spraying milk at them.
 
